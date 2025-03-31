@@ -4,4 +4,4 @@
 ## Hexbin Plot
 ![](kuairec_hexbin3.png "Hexbin Plot")
 ## Kernel Density Plot
-![](kuairec_kde.png "Kernel Density Plot")
+![](kuairec_kde_plot.png "Kernel Density Plot")
